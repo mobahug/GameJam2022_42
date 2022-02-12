@@ -10,7 +10,7 @@ The idea what with my team we wanted to achieve was a small platformer, because 
 
 It was pretty challenging as Unity after few restart behaved a bit unexpectedly, but once we had a level bit AI enemies and cool movement animations, it was very rewarding to play this small game.
 
-Unity version: 2020.3.25f1
+    Unity version: 2020.3.25f1
 
 Here is a small gif from the demo gameplay.
 
