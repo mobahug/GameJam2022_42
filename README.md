@@ -12,6 +12,8 @@ It was pretty challenging as Unity after few restart behaved a bit unexpectedly,
 
     Unity version: 2020.3.25f1
 
-Here is a small gif from the demo gameplay.
+Here is a small gif from the demo gameplay:
+
+
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/83179142/153702752-b1557838-aed0-4f08-96e7-824c17b7773d.gif)
