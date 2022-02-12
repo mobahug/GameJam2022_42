@@ -3,8 +3,11 @@
 2022 end of january I was participating on Hive Helsinki The Coding School's very first game jam, where we had 48h to make a game.
 
 I choosed Unity program to make this game and pre-made assets.
+
 Earlier already made few games, but since that time I felt forget things so it was a very good event to refresh my memory a bit.
+
 The idea what with my team we wanted to achieve was a small platformer, because we like the pixel retro platformer games.
+
 It was pretty challenging as Unity after few restart behaved a bit unexpectedly, but once we had a level bit AI enemies and cool movement animations, it was very rewarding to play this small game.
 
 Unity version: 2020.3.25f1
